@@ -1,6 +1,6 @@
-# criar tarefa
-
 lista_tarefas = []
+
+# criar tarefa
 
 def criar_tarefa():
     tarefas = []
