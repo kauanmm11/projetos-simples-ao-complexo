@@ -1,0 +1,19 @@
+pedido_id,data,cliente_id,produto,categoria,preco,quantidade,cidade,canal
+1,2025-01-05,101,Notebook,Eletrônicos,3500,1,Porto Alegre,Site
+2,2025-01-06,102,Mouse,Eletrônicos,80,2,Canoas,Marketplace
+3,2025-01-07,103,Cadeira,Moveis,900,1,Porto Alegre,Loja Física
+4,2025-01-10,101,Teclado,Eletrônicos,150,1,Gravataí,Site
+5,2025-01-12,104,Notebook,Eletrônicos,3500,1,Canoas,Marketplace
+6,2025-01-15,105,Mesa,Moveis,1200,1,Porto Alegre,Loja Física
+7,2025-02-01,106,Mouse,Eletrônicos,80,3,Gravataí,Site
+8,2025-02-03,107,Monitor,Eletrônicos,1200,1,Canoas,Marketplace
+9,2025-02-05,108,Cadeira,Moveis,900,2,Porto Alegre,Site
+10,2025-02-10,101,Mouse,Eletrônicos,80,1,Porto Alegre,Site
+11,2025-02-15,109,Teclado,Eletrônicos,150,2,Canoas,Marketplace
+12,2025-02-20,110,Mesa,Moveis,1200,1,Gravataí,Loja Física
+13,2025-03-01,111,Notebook,Eletrônicos,3500,1,Porto Alegre,Site
+14,2025-03-05,112,Monitor,Eletrônicos,1200,2,Canoas,Marketplace
+15,2025-03-10,113,Cadeira,Moveis,900,1,Gravataí,Loja Física
+16,2025-03-12,101,Mouse,Eletrônicos,80,4,Porto Alegre,Site
+17,2025-03-15,114,Teclado,Eletrônicos,150,1,Canoas,Marketplace
+18,2025-03-20,115,Mesa,Moveis,1200,2,Porto Alegre,Loja Física
